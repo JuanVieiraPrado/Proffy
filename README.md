@@ -9,7 +9,7 @@
 
 ## 🔖&nbsp; Sobre
 
-O projeto **Proffy** é uma plataforma para estudos online criada durante **Bootcamp GoStack** com o intuito de colocarmos em prática todo conteúdo estudado durante o curso.
+O projeto **Proffy** é uma plataforma para estudos online criada durante a **Next Level Week 2** com o intuito de elevar o conhecimento em desenvolvimento web.
 
 ---
 
