@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="images/">
+    <img src="images/Proffy.png">
 </h1>
 
 # Indice
