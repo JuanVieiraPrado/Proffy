@@ -5,7 +5,7 @@
 # Indice
 
 - [Sobre](#-sobre)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [Front-end](#-Front-end)
 
 ## 🔖&nbsp; Sobre
 
@@ -13,12 +13,19 @@ O projeto **Proffy** é uma plataforma para estudos online criada durante a **Ne
 
 ---
 
-## 🚀 Tecnologias utilizadas
-
-O projeto foi desenvolvido utilizando as seguintes tecnologias
+## 🚀 Front-end
 
 - [HTML5](www.w3schools.com/html/)
 - [CSS3](https://www.w3schools.com/css/)
-- [JavaScript](https://www.javascript.com)
+
+---
+
+## 🚀 Back-end
+
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
+- [Node.js](https://nodejs.org)
+- [Git Bash](https://gitforwindows.org)
+- [Banco de dados: SQL](https://pt.wikipedia.org/wiki/SQL)
+- [SQLite](https://www.sqlite.org/index.html)
 
 ---
