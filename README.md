@@ -45,7 +45,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/Lucas-Angelo/Proffy_NLW2.git
+git clone https://github.com/juanvieiraprado99/Proffy_NLW2.git
 
 # Entrar no diretório
 cd Proffy_NLW2
