@@ -14,7 +14,7 @@ const proffys = [
     { 
         name: "Juan Vieira Prado",
         avatar: "https://avatars3.githubusercontent.com/u/20159595?s=460&u=352d696225f03d057646c2cf1b34373d077f1440&v=4",
-        whatsapp: "11997532091", 
+        whatsapp: "11981075830", 
         bio: "Entusiasta das melhores tecnologias.<br><br>Apaixonado pelo desenvolvimento de softwares, Juan se aperfeiçoou suas habilidades em Desenvolvimento Web.", 
         subject: "Desenvolvedor de Software", 
         cost: "15", 
