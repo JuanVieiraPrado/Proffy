@@ -1,0 +1,159 @@
+/* botão roxo index*/
+
+.buttons-container a#button-purple{
+	color: #ffffff;
+	display: inline-block;
+	padding: 24px 30px;
+	position: relative;
+	overflow: hidden;
+	text-decoration: none;
+	text-transform: uppercase;
+	transition: 0.5s;
+	-webkit-box-reflect: below 1px linear-gradient(transparent, #0005);
+}
+
+
+
+.buttons-container a:hover#button-purple{
+	background: #8257e5;
+	box-shadow: 0 0 5px #8257e5 , 0 0 25px #8257e5 , 0 0 50px #8257e5 , 0 0 200px #8257e5 ;
+	color: #050801;
+}
+
+.buttons-container a span#button-purple{
+	display: block;
+	position: absolute;
+}
+
+.buttons-container a span:nth-child(1)#button-purple{
+	animation: animate1 1s linear infinite;
+	background: linear-gradient(90deg, transparent, #9871F5);
+	height: 2px;
+	left: -100%;
+	top: 0;
+	width: 100%;
+}
+
+
+
+.buttons-container a span:nth-child(2)#button-purple{
+	animation: animate2 1s linear infinite;
+	animation-delay: 0.25s;
+	background: linear-gradient(180deg, transparent, #9871F5);
+	height: 100%;
+	top: -100%;
+	right: 0;
+	width: 2px;
+}
+
+
+
+.buttons-container a span:nth-child(3)#button-purple{
+	animation: animate3 1s linear infinite;
+	animation-delay: 0.5s;
+	background: linear-gradient(270deg, transparent, #9871F5);
+	bottom: 0;
+	height: 2px;
+	right: -100%;
+	width: 100%;
+}
+
+
+/* botão verde index*/
+
+.buttons-container a#button-green{
+	color: #ffffff;
+	display: inline-block;
+	padding: 24px 30px;
+	position: relative;
+	overflow: hidden;
+	text-decoration: none;
+	text-transform: uppercase;
+	transition: 0.5s;
+	-webkit-box-reflect: below 1px linear-gradient(transparent, #0005);
+}
+
+
+
+.buttons-container a:hover#button-green{
+	background: #04D361;
+	box-shadow: 0 0 5px #04D361 , 0 0 25px #04D361 , 0 0 50px #04D361 , 0 0 200px #04D361 ;
+	color: #050801;
+}
+
+.buttons-container a span#button-green{
+	display: block;
+	position: absolute;
+}
+
+.buttons-container a span:nth-child(1)#button-green{
+	animation: animate1 1s linear infinite;
+	background: linear-gradient(90deg, transparent, #04D361);
+	height: 2px;
+	left: -100%;
+	top: 0;
+	width: 100%;
+}
+
+
+
+.buttons-container a span:nth-child(2)#button-green{
+	animation: animate2 1s linear infinite;
+	animation-delay: 0.25s;
+	background: linear-gradient(180deg, transparent, #04D361);
+	height: 100%;
+	top: -100%;
+	right: 0;
+	width: 2px;
+}
+
+
+
+.buttons-container a span:nth-child(3)#button-green{
+	animation: animate3 1s linear infinite;
+	animation-delay: 0.5s;
+	background: linear-gradient(270deg, transparent, #04D361);
+	bottom: 0;
+	height: 2px;
+	right: -100%;
+	width: 100%;
+}
+
+/* botão verde page-study */
+
+.buttons-container #button-green-study{
+	color: #ffffff;
+	display: inline-block;
+	position: relative;
+	overflow: hidden;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+
+
+.buttons-container #button-green-study:hover{
+	background: #04D361;
+	box-shadow: 0 0 5px #04D361 , 0 0 25px #04D361 , 0 0 50px #04D361 , 0 0 200px #04D361 ;
+	color: #050801;
+}
+
+/* botão verde page-give-classes */
+
+.buttons-container #button-green-give-classes{
+	color: #ffffff;
+	display: inline-block;
+	position: relative;
+	overflow: hidden;
+	text-decoration: none;
+	text-transform: uppercase;
+	transition: 0.5s;
+}
+
+
+
+.buttons-container #button-green-give-classes:hover{
+	background: #04D361;
+	box-shadow: 0 0 5px #04D361 , 0 0 25px #04D361 , 0 0 50px #04D361 , 0 0 200px #04D361 ;
+	color: #050801;
+}

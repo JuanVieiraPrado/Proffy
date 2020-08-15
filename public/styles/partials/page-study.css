@@ -1,3 +1,7 @@
+#page-study {
+    background: var(--color-black);
+}
+
 #page-study #container {
     width: 100vw;
     height: 100vh;
@@ -5,6 +9,7 @@
 
 #search-teachers {
     margin-top: 3.2rem;
+    
 }
 
 #search-teachers label {
@@ -37,7 +42,7 @@
 }
 
 
-#page-sudy main {
+#page-study main {
     margin: 3.2rem auto;
     width: 90%;
 }

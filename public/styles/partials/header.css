@@ -1,6 +1,6 @@
 
 .page-header {
-    background-color: var(--color-primary);
+    background-color: var(--color-primary-darker);
 
     display: flex;
     flex-direction: column;

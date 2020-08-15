@@ -1,3 +1,7 @@
+#page-give-classes {
+    background: var(--color-black);
+}
+
 #page-give-classes #container {
     width: 100vw;
     height: 100vh;
